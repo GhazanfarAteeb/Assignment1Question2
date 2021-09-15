@@ -1,0 +1,16 @@
+<resources>
+	<string name="app_name">HomeScreenLayout</string>
+	<string name="calculator">calculator</string>
+	<string name="calculator2">Calculator</string>
+	<string name="easypaisa">Easypaisa</string>
+	<string name="camera">camera</string>
+	<string name="facebook">Facebook</string>
+	<string name="clock">Clock</string>
+	<string name="foodpanda">Foodpanda</string>
+	<string name="play_music">Play Music</string>
+	<string name="messenger">Messenger</string>
+	<string name="google_maps">Google Maps</string>
+	<string name="whatsapp">WhatsApp</string>
+	<string name="instagram">Instagram</string>
+	<string name="twitter">Twitter</string>
+</resources>
